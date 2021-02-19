@@ -1,6 +1,6 @@
 /*
 SQLyog - Free MySQL GUI v5.19
-Host - 5.5.24 : Database - bookidb
+Host - 5.5.24 : Database - booki
 *********************************************************************
 Server version : 5.5.24
 */
@@ -10,9 +10,9 @@ SET NAMES utf8;
 
 SET SQL_MODE='';
 
-create database if not exists `bookidb`;
+create database if not exists `booki`;
 
-USE `bookidb`;
+USE `booki`;
 
 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0;
 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO';
